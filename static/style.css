@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.flash {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 5px solid green;
+    list-style-type: none;
+}
